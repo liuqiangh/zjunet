@@ -22,4 +22,6 @@ Note that the setup script will install *xl2tpd* and it will change or create th
 If you have same files, please backup them or modified those files manually.
 
 ## IN DEVELOPING
-This repository could not be used yet
+// This repository could not be used yet
+VPN in testing.
+WLAN in developing(could not be used yet)
