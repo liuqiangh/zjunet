@@ -4,6 +4,8 @@ Gist from DreaminginCodeZH: [ZJU Network Configuration from Zhang Hai](https://g
 Scripts from DreaminginCodeZH [zju-net-utils](https://github.com/DreaminginCodeZH/zju-net-utils)
 
 ## VPN
+File vpn is to used to connect to ZJU VPN.  
+
 You could use the following command to install zjuvpn.
 ```shell
 cd vpn
@@ -21,7 +23,13 @@ Note that the setup script will install *xl2tpd* and it will change or create th
 ```
 If you have same files, please backup them or modified those files manually.
 
+## WLAN
+// TODO
+
 ## IN DEVELOPING
-// This repository could not be used yet
-VPN in testing.
-WLAN in developing(could not be used yet)
+// This repository could not be used yet.  
+
+VPN is in testing.  
+
+WLAN is in developing(could not be used yet).
+
