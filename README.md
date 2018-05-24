@@ -13,10 +13,13 @@ After successful installed, you could just connent to zjuvpn with
 ```shell
 zjuvpn
 ```
-Note that the setup script will install *xl2tpd and it will change or create the configuration files in the following:
+Note that the setup script will install *xl2tpd* and it will change or create the configuration files in the following:
+```
 1. /etc/ppp/chap-secrets
 2. /etc/ppp/peers/zjuvpn.l2tpd
 3. /etc/xl2tpd/xl2tpd.conf
+```
+If you have same files, please backup them or modified those files manually.
 
 ## IN DEVELOPING
 This repository could not be used yet
